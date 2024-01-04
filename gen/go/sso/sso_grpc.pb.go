@@ -4,7 +4,7 @@
 // - protoc             v4.25.1
 // source: sso/sso.proto
 
-package zinatullin_sso_v1
+package ssov1
 
 import (
 	context "context"
